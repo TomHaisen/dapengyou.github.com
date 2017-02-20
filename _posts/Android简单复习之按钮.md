@@ -3,7 +3,7 @@ layout: post
 title: Android控件复习之---按钮
 tags:
 - Android复习
-categories: Android Review
+categories: AndroidReview
 description: Android的控件复习之按钮
 ---
 #Android控件复习之---按钮

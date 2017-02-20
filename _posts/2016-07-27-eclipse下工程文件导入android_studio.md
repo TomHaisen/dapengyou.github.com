@@ -4,7 +4,7 @@ title: Eclipse下工程文件导入Android Studio
 tags:
 - Android Studio
 - Eclipse
-categories: ID
+categories: IDE
 description: Eclipse下工程文件导入Android Studio
 ---
 

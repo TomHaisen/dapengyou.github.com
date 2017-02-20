@@ -4,7 +4,7 @@ title: 使用Github+Jekyll制作自己的博客
 tags:
 - Github
 - Jekyll
-categories: 随笔笔记
+categories: Note
 description: 使用Github+Jekyll制作自己的博客。
 ---
 ##使用Github+Jekyll制作自己的博客

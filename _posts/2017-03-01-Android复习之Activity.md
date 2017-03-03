@@ -6,7 +6,6 @@ tags:
 categories: AndroidReview
 description: Android简单复习之Activity以及Activity的跳转
 ---
-
 #Android简单复习之Activity
 
 这次我们来简单复习一下Android的四大组件中的**Activity**

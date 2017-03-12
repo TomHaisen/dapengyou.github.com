@@ -67,3 +67,4 @@ android:layout_height--------控件的高度
 android:src------------------设置ImageView的内容图像
 android:background-----------设置ImageView的背景图片或者颜色
 ```
+[ImageView.ScaleType设置图解](http://blog.csdn.net/larryl2003/article/details/6919513)
